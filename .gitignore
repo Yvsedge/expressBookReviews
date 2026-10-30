@@ -1,4 +1,10 @@
-# Distribution / packaging
-node_modules
-
-
+node_modules/
+.env
+.env.*
+cookies.txt
+**/cookies.txt
+**/login.txt
+**/register.txt
+**/login-request.json
+**/register-request.json
+**/grading-register.json
